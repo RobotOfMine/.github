@@ -19,4 +19,4 @@ For example, a chat message can start a routine that gathers logs, crafts planks
 
 ## Contact
 
-Need help or want to share what you’re building? Join our [Discord community](https://discord.robotofmine.com) or email [support@robotofmine.com](mailto:support@robotofmine.com).
+Need help or want to share what you’re building? Join our [Discord community](https://discord.robotofmine.com).
