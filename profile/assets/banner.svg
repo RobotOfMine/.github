@@ -1,0 +1,42 @@
+<!-- Black-and-gold organization profile banner; self-contained SVG for GitHub. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">RobotOfMine</title>
+<desc id="desc">A playground for Minecraft automation. Build. Connect. Automate. Gold blocks connected by a dotted path on a black background.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171717"/><stop offset="1" stop-color="#080808"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#d4af37" stop-opacity=".16"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+<ellipse cx="972" cy="190" rx="320" ry="280" fill="url(#glow)"/>
+<path d="M54 0H1146" stroke="#d4af37" stroke-width="3"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <rect x="58" y="58" width="9" height="9" rx="1" fill="#d4af37"/>
+  <text x="80" y="68" fill="#d4af37" font-size="14" font-weight="700" letter-spacing="3">MINECRAFT AUTOMATION</text>
+  <text x="54" y="170" fill="#f5f5f5" font-size="78" font-weight="750" letter-spacing="-4">Robot<tspan fill="#e8c65b">OfMine</tspan></text>
+  <text x="58" y="232" fill="#f5f5f5" font-size="33" font-weight="600" letter-spacing="-.7">Build. Connect. Automate.</text>
+  <text x="58" y="275" fill="#b8b8b8" font-size="21">A playground for Minecraft automation.</text>
+  <path d="M58 323H112" stroke="#d4af37" stroke-width="3"/>
+  <text x="58" y="368" fill="#a7a7a7" font-size="14" letter-spacing="2">YOUR IDEAS. YOUR BOTS. YOUR WORLD.</text>
+</g>
+<g fill="none" stroke="#d4af37" stroke-width="2">
+  <path d="M832 270H780V120H905M1005 214V316H1117" stroke-opacity=".48" stroke-dasharray="6 8"/>
+  <circle cx="780" cy="120" r="5" fill="#d4af37" stroke="none"/>
+  <circle cx="1117" cy="316" r="5" fill="#d4af37" stroke="none"/>
+</g>
+<g stroke-linejoin="round">
+  <path d="M945 82L1049 142L945 202L841 142Z" fill="#e8c65b" stroke="#f1d685"/>
+  <path d="M841 142L945 202V319L841 259Z" fill="#8d6d1b" stroke="#be972a"/>
+  <path d="M945 202L1049 142V259L945 319Z" fill="#d4af37" stroke="#e8c65b"/>
+  <path d="M870 175L896 190V218L870 203Z M911 199L931 210V238L911 227Z" fill="#15130c"/>
+  <path d="M879 237L918 260" stroke="#15130c" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1092 60L1134 84L1092 108L1050 84Z" fill="#3b3320" stroke="#8d7430"/>
+  <path d="M1050 84L1092 108V155L1050 131Z" fill="#1b1913" stroke="#8d7430"/>
+  <path d="M1092 108L1134 84V131L1092 155Z" fill="#292419" stroke="#8d7430"/>
+  <path d="M817 322L849 341L817 360L785 341Z" fill="#e8c65b"/>
+  <path d="M785 341L817 360V395L785 376Z" fill="#8d6d1b"/>
+  <path d="M817 360L849 341V376L817 395Z" fill="#d4af37"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="419" rx="20" fill="none" stroke="#d4af37" stroke-opacity=".22"/>
+</svg>
