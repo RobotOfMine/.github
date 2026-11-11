@@ -1,21 +1,22 @@
-# MCCoreClient
+# RobotOfMine
 
-A platform that gives easy interaction with Minecraft clients through code, allowing you to experiment with automation.
+A playground for Minecraft automation. Build visual routines for Minecraft Java bots, connect them to a server, and watch them work in your browser.
 
-## 🚀 About Us
+## What you can do
 
-- 🌐 **[Website](https://mccoreclient.com)**
-- 📚 **[Documentation](https://docs.mccoreclient.com)**
-- 🗨️ **[Discord Community](https://discord.mccoreclient.com)**
+- **Build routines visually:** connect triggers, actions, conditions, and loops to automate gathering, crafting, farming, and more.
+- **Watch and control your bots:** explore the live 3D viewer or 2D map, manage inventory, and follow recent activity.
+- **Experiment with AI:** add AI actions and decisions where useful, or build routines entirely without AI.
+- **Connect your own tools:** use the Public API for bot commands or MCP to let a compatible AI client control gameplay. See the [integration guide](https://docs.robotofmine.com/integrations) for access and setup.
 
-## 📦 Projects
+For example, a chat message can start a routine that gathers logs, crafts planks, and deposits them in a chest.
 
-Here are some of the key repositories we maintain:
+## Get started
 
-- 🤖 **[Client](https://github.com/MCCoreClient/client)** — A custom Minecraft client that can receive and execute instructions.
-- 🔌 **[TypeScript API](https://github.com/MCCoreClient/ts-api)** — An API written in TypeScript for interacting with your clients.
-- 🔧 **[CLI](https://github.com/MCCoreClient/cli)** — A CLI tool for creating and uploading packages using your own code editor.
+- [Website](https://robotofmine.com)
+- [Documentation](https://docs.robotofmine.com)
+- [Discord community](https://discord.robotofmine.com)
 
-## 📬 Contact
+## Contact
 
-Have a question or want to collaborate? Open an issue, contact us at **support@mccoreclient.com**, or join us on **[Discord](https://discord.mccoreclient.com)**.
+Need help or want to share what you’re building? Join our [Discord community](https://discord.robotofmine.com) or email [support@robotofmine.com](mailto:support@robotofmine.com).
